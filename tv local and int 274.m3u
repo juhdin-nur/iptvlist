@@ -525,5 +525,12 @@ http://185.105.101.222/2018/film/Family%20Blood%202018/Family.Blood.2018.NEW.480
 http://185.105.101.222/2018/film/Game%20Night%202018/Ga.me.Nig.ht.2018.480p.b.lu.ry.Filmha_CO.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/42HZTj0/20th-Century-Studios-2020-logo.png" group-title="VOD West",Ghostland 2018
 http://185.105.101.222/2018/film/Ghostland%202018/Ghostland.2018.480p.BluRay.Filmha_CO.mkv
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="RELIGI",DAAITV
+http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",JTV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",TV1
+http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTM3U
