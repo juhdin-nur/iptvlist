@@ -4,7 +4,7 @@ https://vcdnjt.useetv.com/joss/14/rodjatv/chunklist_w205480407_b684100_sleng.m3u
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="INDONESIA",TV NUSANTARA
 https://edgejt7.useetv.com/joss/194/nusantaratv/chunklist_w1423740622_b894100_sleng.m3u8?enc=JudxUo4BFEYA0-MA9qk20w&id=&exp=1607760340
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1000px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1607760675~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=094beef54aad3f98c9989c544da3903e99cab0527edc62cc40277f115feefbda/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1607812731~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=6fe6ca1955111d777efb915e945822adb372ace0f51f47ffb0b12fe4af6663b3/vp9/204_stream.mpd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1607760777~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=957a5e66b615e70bf00f8faee846b6d74798393e24f0eecc195db17824cd63df/vp9/205_stream.mpd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA",MNCTV
@@ -22,9 +22,9 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="INDONESIA",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-mtG6Oh5hzcU/Ws93c3YJSUI/AAAAAAAAPjY/e1kGI6jE5-gOmMMASpkSgLTA2jkDV3SZACLcBGAs/s1600/RTV-Jobsbonafide.blogspot.coi.id.png" group-title="INDONESIA",RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1607758689~acl=/hls-p/ingest_geo_1561_*/*~hmac=81006921f912efda285dde0ddcea01085068b5f6580e03deba64105691b046f7/hls-p/ingest_geo_1561_480p/index.m3u8
+https://cdnjt14.useetv.com/joss/14/rtv/chunklist_w1398055788_b684100_sleng.m3u8?enc=lLNyDuCjS7qS-b3lFyK6tA&id=&exp=1607808544
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-7.png" group-title="INDONESIA",NET TV
-https://cdngb196.useetv.com/joss/15/net/chunklist_w1159760989_b684100_sleng.m3u8
+https://cdngb196.useetv.com/joss/15/net/media_w1159760989_b684100_sleng_11833.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gKRepkij8R4/Xzfa1h3rGLI/AAAAAAAACtY/No7PbqsW1ikH36j8JufGg4aBneSxZvTPACLcBGAsYHQ/s400/Logo%2BTVONE.png" group-title="INDONESIA",TV ONE
