@@ -13,6 +13,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="INDONESIA",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-mtG6Oh5hzcU/Ws93c3YJSUI/AAAAAAAAPjY/e1kGI6jE5-gOmMMASpkSgLTA2jkDV3SZACLcBGAs/s1600/RTV-Jobsbonafide.blogspot.coi.id.png" group-title="INDONESIA",RTV
+https://etslive-2-vidio-com.akamaized.net/exp=1607758689~acl=/hls-p/ingest_geo_1561_*/*~hmac=81006921f912efda285dde0ddcea01085068b5f6580e03deba64105691b046f7/hls-p/ingest_geo_1561_480p/index.m3u8
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-7.png" group-title="INDONESIA",NET TV
+https://etslive-2-vidio-com.akamaized.net/exp=1607760199~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=aae516efe53de0894259e3c06833df27af9ef34ff2a0f367e2b8f0a3d2377886/vp9/875_stream.mpd
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gKRepkij8R4/Xzfa1h3rGLI/AAAAAAAACtY/No7PbqsW1ikH36j8JufGg4aBneSxZvTPACLcBGAsYHQ/s400/Logo%2BTVONE.png" group-title="INDONESIA",TV ONE
 https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybCpZ6QhqTKxV2vCJkHKaF5g)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png" group-title="INDONESIA",BERITASATUNEWS
