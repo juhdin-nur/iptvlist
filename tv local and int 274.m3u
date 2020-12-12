@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0014/6323/brand.gif?itok=s2w8Fai9" group-title="RELIGI",ROADJA TV
+https://vcdnjt.useetv.com/joss/14/rodjatv/chunklist_w205480407_b684100_sleng.m3u8?enc=_C-HhOgMIlOsHnmqB9C59g&id=&exp=1607761160
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="INDONESIA",TV NUSANTARA
+https://edgejt7.useetv.com/joss/194/nusantaratv/chunklist_w1423740622_b894100_sleng.m3u8?enc=JudxUo4BFEYA0-MA9qk20w&id=&exp=1607760340
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1000px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1607760675~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=094beef54aad3f98c9989c544da3903e99cab0527edc62cc40277f115feefbda/vp9/204_stream.mpd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
