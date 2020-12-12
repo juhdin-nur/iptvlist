@@ -121,6 +121,15 @@ http://103.23.201.170:1935/live/livestream/playlist.m3u8
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",TEGAR TV LAMPUNG
 http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="RELIGI",MUITV
+https://vcdnjt.useetv.com/joss/14/muitv/chunklist_w633139327_b684100_sleng.m3u8?enc=yI3rlfFNh0p82mHtBEkfXA&id=&exp=1607763890
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="RELIGI",MTA TV
+https://vcdnjt.useetv.com/joss/14/mtatv/chunklist_w411508418_b684100_sleng.m3u8?enc=q4WOwPdRI8YnQfp3C-ynXw&id=&exp=1607764103
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="RELIGI",TvMU
+https://vcdnjt.useetv.com/joss/14/mtatv/chunklist_w411508418_b684100_sleng.m3u8?enc=q4WOwPdRI8YnQfp3C-ynXw&id=&exp=1607764103
+#EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="RELIGI",TAWAF TV
+https://vcdnjt.useetv.com/joss/14/tawaftv/chunklist_w2037767255_b684100_sleng.m3u8?enc=nUuS7tV4DRu1Y6Hjj0ePUA&id=&exp=1607764246
 #EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="RELIGI",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w388392983.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="RELIGI",WESAL TV
