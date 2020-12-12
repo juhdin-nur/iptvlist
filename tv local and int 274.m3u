@@ -25,6 +25,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1607758689~acl=/hls-p/ingest_geo_1561_*/*~hmac=81006921f912efda285dde0ddcea01085068b5f6580e03deba64105691b046f7/hls-p/ingest_geo_1561_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-7.png" group-title="INDONESIA",NET TV
 https://edgejt7.useetv.com/joss/15/net/chunklist_w1303981366_b1344100_sleng.m3u8?enc=jL1oqq3qST4qzvNKusm33A&id=&exp=1607760066
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV-mp4a_98800_eng=5-1876843000155418.mp4
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gKRepkij8R4/Xzfa1h3rGLI/AAAAAAAACtY/No7PbqsW1ikH36j8JufGg4aBneSxZvTPACLcBGAsYHQ/s400/Logo%2BTVONE.png" group-title="INDONESIA",TV ONE
 https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybCpZ6QhqTKxV2vCJkHKaF5g)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png" group-title="INDONESIA",BERITASATUNEWS
