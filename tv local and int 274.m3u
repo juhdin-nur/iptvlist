@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1000px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1607760675~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=094beef54aad3f98c9989c544da3903e99cab0527edc62cc40277f115feefbda/vp9/204_stream.mpd
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1607760777~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=957a5e66b615e70bf00f8faee846b6d74798393e24f0eecc195db17824cd63df/vp9/205_stream.mpd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA",MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 #EXTINF:0 https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA",GLOBAL
@@ -16,7 +20,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-mtG6Oh5hzcU/Ws93c3YJSUI/AAAAAAAAPjY/e1kGI6jE5-gOmMMASpkSgLTA2jkDV3SZACLcBGAs/s1600/RTV-Jobsbonafide.blogspot.coi.id.png" group-title="INDONESIA",RTV
 https://etslive-2-vidio-com.akamaized.net/exp=1607758689~acl=/hls-p/ingest_geo_1561_*/*~hmac=81006921f912efda285dde0ddcea01085068b5f6580e03deba64105691b046f7/hls-p/ingest_geo_1561_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-7.png" group-title="INDONESIA",NET TV
-https://etslive-2-vidio-com.akamaized.net/exp=1607760500~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=c07da1daf1d99a4e5aa43a5ee16cf624e4cb47336d71ed6346e42282f90e280f/vp9/875/primary/720p/v-720p-1607326421-419870536000.webm
+https://etslive-2-vidio-com.akamaized.net/exp=1607760500~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=c07da1daf1d99a4e5aa43a5ee16cf624e4cb47336d71ed6346e42282f90e280f/vp9/875_stream.mpd
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gKRepkij8R4/Xzfa1h3rGLI/AAAAAAAACtY/No7PbqsW1ikH36j8JufGg4aBneSxZvTPACLcBGAsYHQ/s400/Logo%2BTVONE.png" group-title="INDONESIA",TV ONE
 https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybCpZ6QhqTKxV2vCJkHKaF5g)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png" group-title="INDONESIA",BERITASATUNEWS
