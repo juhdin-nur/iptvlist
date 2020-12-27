@@ -1,12 +1,12 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0014/6323/brand.gif?itok=s2w8Fai9" group-title="RELIGI",ROADJA TV
 https://vcdnjt.useetv.com/joss/14/rodjatv/chunklist_w205480407_b684100_sleng.m3u8?enc=_C-HhOgMIlOsHnmqB9C59g&id=&exp=1607761160
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/640px-Logo_tvN.svg.png" group-title="INDONESIA",TV NUSANTARA
 https://edgejt7.useetv.com/joss/194/nusantaratv/chunklist_w1423740622_b894100_sleng.m3u8?enc=JudxUo4BFEYA0-MA9qk20w&id=&exp=1607760340
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1000px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1607812731~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=6fe6ca1955111d777efb915e945822adb372ace0f51f47ffb0b12fe4af6663b3/vp9/204_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1607890872~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=9cb429515df087256b7e3138da2417bd3f912f2a1c17d4b42c02a210d682ed0c/vp9/204_stream.mpd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1607890925~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=696aef3e04fbeacb4bd5d2e215c3c3825724c837af5c16b2ab2fe84c9b319b29/vp9/205_stream.mpd
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA",MNCTV
 https://linier.rctiplus.id/live/eds/mnctv_fta/live_fta/hdntl=exp=1609120621~acl=%2f*~data=hdntl~hmac=84b39f474315213115ca349924d5a701c75d7b230405f445909062807eaf7dc3/mnctv_fta-mp4a_64000=2.m3u8
 #EXTINF:0 https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA",GLOBAL
@@ -22,9 +22,9 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/1/1b/TRANS_TV.png" group-title="INDONESIA",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-mtG6Oh5hzcU/Ws93c3YJSUI/AAAAAAAAPjY/e1kGI6jE5-gOmMMASpkSgLTA2jkDV3SZACLcBGAs/s1600/RTV-Jobsbonafide.blogspot.coi.id.png" group-title="INDONESIA",RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://cdnbpp1.useetv.com/joss/14/rtv/chunklist_w184823718_b684100_sleng.m3u8?enc=h1G-NtDk84jKjHrGi_44ug&id=&exp=1607886701
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-net-tv-png-7.png" group-title="INDONESIA",NET TV
-https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd
+https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1619501817_b1344100_sleng.m3u8?enc=Ae9eJOs8cg9Yz8rGczA_jw&id=&exp=1607886838
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-gKRepkij8R4/Xzfa1h3rGLI/AAAAAAAACtY/No7PbqsW1ikH36j8JufGg4aBneSxZvTPACLcBGAsYHQ/s400/Logo%2BTVONE.png" group-title="INDONESIA",TV ONE
